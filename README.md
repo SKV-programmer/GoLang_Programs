@@ -8,8 +8,8 @@ This repository contains programs and study materials that will help you to lear
 
 ## Step 2 : Verify Go Setup
 - Open your computer command prompt cmd (in Windows) and terminal in (Mac and Linux).
-- Type **go version** and hit enter.
-- You see something like this **go version go1.14 windows/amd64**. It means Go language successfully installed.
+- Type **"go version"** and hit enter.
+- You see something like this **"go version go1.14 windows/amd64"**. It means Go language successfully installed.
 
 ## Step 3 : Download Go programs from this repository.
 - Fork this repository.
@@ -17,6 +17,6 @@ This repository contains programs and study materials that will help you to lear
 
 ## Step 4 : Run Go program
 - Now open the cmd or command prompt in your folder where you put your Go program file.
-- Now type the following command in your cmd window **go run filename.go** and hit enter.
+- Now type the following command in your cmd window **"go run filename.go"** and hit enter.
 - Now you successfully able to run Go program in your local computer. 
 
